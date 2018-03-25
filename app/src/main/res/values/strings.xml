@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="desc_of_image">thumbnail of the book</string>
+    <string name="search">search</string>
+    <string name="image_button">image button</string>
+    <string name="no_books">no books found!</string>
+</resources>
